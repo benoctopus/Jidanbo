@@ -1,3 +1,3 @@
-# Authorizer
+# Jidanbo
 express authentication middleware with redis
 
