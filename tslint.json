@@ -1,0 +1,17 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint:react",
+    ],
+    "jsRules": {},
+    "rules": {
+        "max-line-length": [
+            true,
+            78
+        ],
+        "jsx-alignment": true,
+        "jsx-self-close": true,
+        "semicolon": true
+    }
+}

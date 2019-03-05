@@ -1,0 +1,7 @@
+dev/
+.dev/
+_authorizer/
+scratch/
+notes/
+.env
+node_modules/

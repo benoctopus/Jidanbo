@@ -1,0 +1,4 @@
+{
+  "PORT": 9812,
+  "SECRET": "SuperSecretPassphrase"
+}
